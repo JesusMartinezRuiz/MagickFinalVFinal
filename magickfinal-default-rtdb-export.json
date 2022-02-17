@@ -1,0 +1,115 @@
+{
+  "tienda" : {
+    "cartas" : {
+      "-Mw4SJ5pQJarUnEG53wB" : {
+        "color" : "azul",
+        "disponible" : true,
+        "id" : "-Mw4SJ5pQJarUnEG53wB",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fcartas%2F-Mw4SJ5pQJarUnEG53wB?alt=media&token=262986c4-bf62-42dd-ac04-b637484d8a60",
+        "nombre" : "Draco suturado",
+        "precio" : 15.5
+      },
+      "-Mw4SSIzMN3rqtEWp72X" : {
+        "color" : "blanco",
+        "disponible" : true,
+        "id" : "-Mw4SSIzMN3rqtEWp72X",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fcartas%2F-Mw4SSIzMN3rqtEWp72X?alt=media&token=2ee994af-5884-4302-945b-88d0e56fb903",
+        "nombre" : "Had matriarca",
+        "precio" : 5.5
+      },
+      "-Mw4SbPZYtQGNwR2tjQX" : {
+        "color" : "rojo",
+        "disponible" : true,
+        "id" : "-Mw4SbPZYtQGNwR2tjQX",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fcartas%2F-Mw4SbPZYtQGNwR2tjQX?alt=media&token=28a6d254-e8aa-42af-a5fe-fb464690158c",
+        "nombre" : "Despejar un camino",
+        "precio" : 2.8
+      },
+      "-Mw4ShhVQlkGTMJqqCAH" : {
+        "color" : "verde",
+        "disponible" : true,
+        "id" : "-Mw4ShhVQlkGTMJqqCAH",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fcartas%2F-Mw4ShhVQlkGTMJqqCAH?alt=media&token=7a75f2c1-3c10-4e20-bf4d-2b2ff52d5cd2",
+        "nombre" : "Hidra del Génesis",
+        "precio" : 20
+      },
+      "-Mw4SrGMjPJ9AovE25Wh" : {
+        "color" : "negro",
+        "disponible" : true,
+        "id" : "-Mw4SrGMjPJ9AovE25Wh",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fcartas%2F-Mw4SrGMjPJ9AovE25Wh?alt=media&token=54814af1-f22e-4cd3-817e-78c795c437ea",
+        "nombre" : "On Nixilis Liberado",
+        "precio" : 12.9
+      }
+    },
+    "eventos" : {
+      "-Mw4TxPHTdEi5nEgkIoP" : {
+        "aforo_max" : 30,
+        "aforo_ocupado" : 0,
+        "fecha" : "2022-2-17",
+        "id" : "-Mw4TxPHTdEi5nEgkIoP",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Feventos%2F-Mw4TxPHTdEi5nEgkIoP?alt=media&token=fd481177-ab44-4155-9416-5d1e1f8718c5",
+        "nombre" : "Fortnite Sky Fire",
+        "precio" : 33.849998474121094
+      },
+      "-Mw4VCkFXQ6MTUTmaZr0" : {
+        "aforo_max" : 900,
+        "aforo_ocupado" : 0,
+        "fecha" : "2022-2-17",
+        "id" : "-Mw4VCkFXQ6MTUTmaZr0",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Feventos%2F-Mw4VCkFXQ6MTUTmaZr0?alt=media&token=84e07ef7-c405-4d87-9a73-c4eaf5a8d11d",
+        "nombre" : "Torneo normal",
+        "precio" : 20
+      },
+      "-Mw4VSZmX2ux2x-ajeab" : {
+        "aforo_max" : 10,
+        "aforo_ocupado" : 0,
+        "fecha" : "2022-2-17",
+        "id" : "-Mw4VSZmX2ux2x-ajeab",
+        "img" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Feventos%2F-Mw4VSZmX2ux2x-ajeab?alt=media&token=f8e7695c-bfec-4ad9-9707-c5dc278aef9a",
+        "nombre" : "Cartas Time",
+        "precio" : 30.350000381469727
+      }
+    },
+    "reservas_carta" : {
+      "-Mw6wD_OA2OFJa2qjm0T" : {
+        "aceptado" : true,
+        "fecha" : "java.util.GregorianCalendar[time=1645105697619,areFieldsSet=true,areAllFieldsSet=true,lenient=true,zone=java.util.SimpleTimeZone[id=GMT,offset=0,dstSavings=3600000,useDaylight=false,startYear=0,startMode=0,startMonth=0,startDay=0,startDayOfWeek=0,startTime=0,startTimeMode=0,endMode=0,endMonth=0,endDay=0,endDayOfWeek=0,endTime=0,endTimeMode=0],firstDayOfWeek=1,minimalDaysInFirstWeek=1,ERA=1,YEAR=2022,MONTH=1,WEEK_OF_YEAR=8,WEEK_OF_MONTH=3,DAY_OF_MONTH=17,DAY_OF_YEAR=48,DAY_OF_WEEK=5,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=1,HOUR_OF_DAY=13,MINUTE=48,SECOND=17,MILLISECOND=619,ZONE_OFFSET=0,DST_OFFSET=0]",
+        "id" : "-Mw6wD_OA2OFJa2qjm0T",
+        "id_carta" : "-Mw4SJ5pQJarUnEG53wB",
+        "id_usuario" : "-Mv5B3GkZX39Em9DvZyY",
+        "nombre_user" : "a"
+      }
+    },
+    "reservas_eventos" : {
+      "-Mw4Wi5DEaZH_ctzcN0h" : {
+        "id" : "-Mw4Wi5DEaZH_ctzcN0h",
+        "id_evento" : "-Mw4TxPHTdEi5nEgkIoP",
+        "id_usuario" : "-MvZIKZi3plGEzI3dm7D",
+        "nombreUser" : "admin"
+      }
+    },
+    "usuarios" : {
+      "-Mv5B3GkZX39Em9DvZyY" : {
+        "contraseña" : "123",
+        "correo" : "prueba@prueba.prueba",
+        "estado_noti" : 0,
+        "id" : "-Mv5B3GkZX39Em9DvZyY",
+        "nombre" : "a",
+        "tipo" : "1",
+        "url_usuario" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fusuarios%2F-Mv5B3GkZX39Em9DvZyY?alt=media&token=4f60475d-a658-45c3-83cb-88c1ef3a2bc2",
+        "user_notificador" : "6e80eef1a4516727"
+      },
+      "-MvZIKZi3plGEzI3dm7D" : {
+        "contraseña" : "admin",
+        "correo" : "admin@admin.admin",
+        "estado_noti" : 0,
+        "id" : "-MvZIKZi3plGEzI3dm7D",
+        "nombre" : "admin",
+        "tipo" : "0",
+        "url_usuario" : "https://firebasestorage.googleapis.com/v0/b/magickfinal.appspot.com/o/tienda%2Fusuarios%2F-MvZIKZi3plGEzI3dm7D?alt=media&token=0ebf6764-00f8-4e4b-9b3e-65cf8f415041",
+        "user_notificador" : "53df896653fdc306"
+      }
+    }
+  }
+}
